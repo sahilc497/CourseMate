@@ -1,0 +1,10 @@
+.env
+venv
+*.pdf
+chroma_db/
+.DS_Store
+__pycache__/
+*.pyc
+*.egg-info/
+dist/
+build/
